@@ -1,0 +1,10 @@
+			SYMBOL TABLE
+************************************************************
+	NAME	TYPE		LOCATION	SIZE
+************************************************************
+  	printf	External	-   		- 
+  	i	Variable	0		20 
+  	j	Variable	20		2 
+  	main:	Label   	0  		-  
+  	l1:	Label   	2  		-  
+  

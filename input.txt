@@ -1,0 +1,10 @@
+extern printf
+section .data
+i dd 2,20,30,40,50
+j dw 30
+section .text 
+main:
+MOV ax , i
+ADD ax , j
+l1:  
+MOV ax , bx
